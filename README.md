@@ -1,4 +1,4 @@
-# 0x00. AirBnB clone - The console
+# 0x00. AirBnB clone - The console Group project
 ![Optional Text](hbnb.png)
 ## Description of the project
 Group project by ozioma Nnebedum and Abebe Dadi
