@@ -1,8 +1,8 @@
 # 0x00. AirBnB clone - The console
 ![Optional Text](hbnb.png)
 ## Description of the project
-## Learning Objectives
-	At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+Group project by ozioma Nnebedum and Abebe Dadi
+(https://ci5.googleusercontent.com/proxy/YAo8vwSn8uPRloWVGztFyhIdKnsL-IPfJPA50BcEe2LtCmtoSmhQXBzmSS-dWg4XqCiEqy3CwxoIcgwflJzTr7ErDCf3gXUhJq8YGf42fzi3ohhfI7hRCvTB=s0-d-e1-ft#https://nn889.files.keap.app/nn889/3f0ddbe9-f104-466a-80a3-6f20158ac6d2)
 
 ## General
 	How to create a Python package
@@ -93,5 +93,5 @@ $
 
 
 ## Authors
-ozioma Nnebedum [![Github URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OziN199/) </br>
-Abebe Dadi [![Github URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abewok/) 
+[![Github URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OziN199/) ozioma Nnebedum</br>
+[![Github URL](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abewok/) Abebe Dadi
